@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord to the fifth-kingdom-men In a letter to one of them vvritten from the light within him. By one whom the world calls a quaker.</title>
+            <author>One whom the world calls a Quaker.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67061</idno>
+            <idno type="STC">Wing W3570B</idno>
+            <idno type="STC">ESTC R219474</idno>
+            <idno type="EEBO-CITATION">99830942</idno>
+            <idno type="PROQUEST">99830942</idno>
+            <idno type="VID">35404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1880:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord to the fifth-kingdom-men In a letter to one of them vvritten from the light within him. By one whom the world calls a quaker.</title>
+                  <author>One whom the world calls a Quaker.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3: Thou that callest thy self one of the fifth-kingdom.</note>
+                  <note>Copy has faded print.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35404:1" rendition="simple:additions"/>
+            <p>A WORD TO THE Fifth-Kingdom-Men.</p>
+            <p>IN A LETTER To one of them Written from the Light within him.</p>
+            <p>By One whom the World calls a Q<g ref="char:V">Ʋ</g>AKER.</p>
+            <p>Printed in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35404:2"/>
+            <pb n="3" facs="tcp:35404:2"/>
+            <head>Thou that c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st thy ſelf one of the <hi>Fifth-Kingdom.</hi>
+            </head>
+            <p>THou haſt ſlanderouſly reported of me, becauſe I made an Addreſſe to the King, in the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>half of thoſe that live up to the l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght within them, that therefore I am grown a Courtier; My Hats being ſtill plu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kt off my Head when I went into the Kings preſence ſhews how <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it<g ref="char:EOLhyphen"/>tle Adoration I am willing to pay to King or <hi>Keſar<g ref="char:punc">▪</g>
+               </hi> Yet know that I will never deny Subjection, and Ci<g ref="char:EOLhyphen"/>vil obed<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence to the chief Magiſtrate &amp; eſpecially our preſent one, whom though I doe not look on as a God, yet I doe as a good natu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d man, and I wiſh thou didſt love any one ſo wel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as he doth all Man-kind; His per<g ref="char:EOLhyphen"/>ſon thou woul<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt abuſe &amp; haſt by thy practices endea<g ref="char:EOLhyphen"/>vou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed as much as in thee lyes to poyſon his very Soul, and that with the hatred of thoſe of us whom <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he World calls <hi>Quakers;</hi> But I hope we ſhall be as far from being joyned wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h thee in Puniſhment, as we are from being u<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed in Opinions and P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>actic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. Though our O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inions in the eſteem of men that will not trou<g ref="char:EOLhyphen"/>ble themſelves to underſtand them, ſeem very like to thine, yet are they far from being the ſame. And pitty it is that the Inhibitants near <hi>Bedlam,</hi> ſhould be whipt for the madneſs of others in <hi>Bedlam;</hi> Into
+<pb n="4" facs="tcp:35404:3"/>
+which place, I ſhall on thy Repentance, improve my Intereſt in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, that thou mayeſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e removed from thy p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſent Priſon. And further to let thee ſee how little I have learn'd to daub and flatter by going to the Court, I will deliver my Opinion (which I am told thou deſireſt) about the Declaration of the men of the <hi>Fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Ki<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gdome,</hi> without complementing; And I ſay of it, It is the wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt thing that ever was Printed ſince P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing was found out. Thou calleſt for Fire from Heaven to deſtroy thy Neighbours, and becauſe thou canſt not have it from thence, wouldſt fetch it from Hell. Thou <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hinkeſt that thou under<g ref="char:EOLhyphen"/>ſtandeſt Gods Cypher in the <hi>Revelation,</hi> and falſly imagining that thou haſt found out its ſence, doſt un<g ref="char:EOLhyphen"/>dergoe the curſe of that Book for adding to it, and know that thou ſinneſt more in adding things to it, then if thou hadſt only added words. I perceive thou art of the teſty humour of the Prophet <hi>Jonah,</hi> to Have thouſands of Men, Women, and innocent Children deſtroyed to make good thy Prophecyes. Or rather to compare thee according to thy deſerts, thou art like that Almanack-Maker, who foretold a Fire in a City and made it himſelf.</p>
+            <p>But alas thy notions of the <hi>Revelation,</hi> and of the thouſand years reign, are not agreeable to the words of the obſcure Text. For <hi>Revelat.</hi> 20. 4. God will raiſe up the Saints which are dead, when that Reign is to begin, which now is not done.</p>
+            <p>How art thou ſure that thou haſt calculated things in <hi>Daniel,</hi> and the <hi>Revelation</hi> right? I doubt as Sir <hi>Francis Drake</hi> in going round the world loſt a day, ſo thou in thy Prophecyes which concern the revolutions of the world mayeſt have loſt a day, as it is in the Scripture account a year, or as in Gods a thouſand years. And indeed the thouſand years raign is held by a thouſand men ſo many ſeveral ways. The Trum<g ref="char:EOLhyphen"/>pets then in the Revelation giving an uncertain ſound,
+<pb n="5" facs="tcp:35404:3"/>
+how ſhall men prepare themſelves to Battel? But a little to anſwer ſome of thy objections; 'Tis ſaid, <hi>Daniel</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>7th.</hi> and the <hi>18th. The Saints of the moſt High ſhall take the Kingdom and poſſeſſe it.</hi> I anſwer, that the <hi>27th.</hi> verſe doth tell thee how they ſhall take it, <hi>The Kingdom ſhall be given to the people of the Saints of the moſt High.</hi> Here then by taking it, is not meant by force but receiving it when given. I therefore con<g ref="char:EOLhyphen"/>clude that neither God nor Man did give thee this Kingdom, becauſe thou haſt not took it, If thou ſay<g ref="char:EOLhyphen"/>eſt that the man of Sin is to be deſtroyed, conſider thoſe words that it is by the brightneſſe of his coming; Thou raſh man wouldſt be an incarnate Devil even whilſt thou art deſtroying the man of Sin. If thou ac<g ref="char:EOLhyphen"/>counteſt the Parſon of <hi>Rome</hi> the wicked one, as I alſo do, why doſt thou not go thither to convert him, as one of my opinion did, ſpending above thirty pounds in that Journey? But thou inſtead of ſending one to convert him, wouldſt ſend a thouſand if thou couldſt to cut his throat, though he never did harm to thee, or any of thy Kindred; But thou wilt ſay, thou wouldſt have a hand in ſettling this <hi>fifth-Kingdom;</hi> I anſwer, that is to be the Stone cut out without hands. The cleareſt Prophecy of this Kingdom is in <hi>Revelati<g ref="char:EOLhyphen"/>on</hi> the <hi>19th.</hi> and the <hi>11th.</hi> which tells thee how this <hi>fifth-Kingdom</hi> ſhall be brought in, and the Saints en<g ref="char:EOLhyphen"/>gaged in order to it. <hi>Heaven ſhall be opened and a man upon a white Horſe appear, and the Armies which are in Heaven ſhall follow him upon white Horſes &amp;c.</hi> So that thou art not to go <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth till the King appear in Heaven upon the white Ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe. If thou ſayſt the Kings appearing on a white Horſe is allegorical, ſo ſay I is this Kingdom too, and neither thou, nor I, nor any of our Neighbours, know what it is. Now by all thy miſtakes about this, thou ſheweſt that thou doſt not follow the light, but the hear within thee. Thou and thy company have only fulfill'd that one Pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hecy,
+<pb n="6" facs="tcp:35404:4"/>
+               <hi>Revelation</hi> the <hi>13th.</hi> and the <hi>10th.</hi> He that killeth wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Sword, ſhall be killed with the Sword, which hath happened to the mutinous fool-hardy men of thy perſwaſion, though they in their Declaration ſaid that not a hair of their heads ſhould be touch'd. It hath been obſerved that <hi>Saul</hi> when he went to ſeek his Fathers Aſſes, found the Kingdom; but any that among you ſought their Fathers Kingdom, found but Aſſes. I wonder how it came into thy head to think that this Iſland muſt be the Seat of the fifth King; If he hath ſignified it to thee by any Letter that he will land here, ſhew it to us who know his hand as well as thou; If it be writ with that Juice which is ordinarily uſed for Secrecy, wilt thou fire a Town to read it by? Wee know his Seal likewiſe as well as thou, namely a Miracle, which thou canſt not perfectly Counterfeit; Chriſts Miracles were to make the Lame to walk, the B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind to ſee, the Sick to be healed; but the Miracles thou pretendeſt to, work the quite contrary Effects<g ref="char:punc">▪</g> Chriſt did raiſe the dead, but thou only canſt kill the Living; Chriſt wrought a Miracle to pay Tribute, but thou wouldſt work one if thou couldſt to pay none. Think what thou wilt, the Kingdom of God comes not by Obſervation, nei<g ref="char:EOLhyphen"/>ther ſhall they ſay, Lo here and Lo there, but the Kingdom of God is within thee. Live but up to the Light within thee, and thou wilt need no other g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ory to adorn that Kingdom. Thou poor Creature whilſt thou avoideſt Popiſh Principles, runneſt upon Tur<g ref="char:EOLhyphen"/>kiſh, and art for a word and Inſpiration and a ſenſual Paradice, Chriſt bids his Diſciples that if any take their Cloaks, they ſhould give them their Coats alſo, but thou takeſt both. Thou blameſt Prieſts for taking away the Tenth part of mens Eſtates, and wouldſt thy ſelf take away the other Nine. I ſhall only t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke notice of one thing more in thy Declaration, namely thy ambitious Deſign of extending thy Con<g ref="char:EOLhyphen"/>queſts
+<pb n="7" facs="tcp:35404:4"/>
+to <hi>France Spain, Germany</hi> and <hi>Rome,</hi> when thou haſt ſetled the <hi>Fifth Kingdom</hi> here. For ſome Reaſons beſt known to thy <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf, thou omitteſt the Kingdomes of <hi>Sweden, Poland, Denmark,</hi> and thoſe of <hi>Muſcovy, Perſia,</hi> and <hi>China,</hi> and the whole <hi>Turkiſh</hi> Empire. It may be thou art willing that theſe places ſhould be preſerved for the next nine and Twenty of thy Per<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>waſion to Subdue, and thinkſt it fair for <hi>Swan-Ally</hi> to be able to confo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Houſes of <hi>France</hi> and <hi>Spain,</hi> the Princes of the Empire, and Conclave of Cardinals. But me thinks any 29 of thy Opinion, ſhould be afraid to appear in <hi>Germany,</hi> where forty Thouſand were defeated. However let me adviſe thee to begin thy bloody work of Deſtruction rather abroad than in <hi>England,</hi> as young Phyſitians travel to practice their Arts of killing in other Countrys. But to ſpeak more ſeriouſly, my Counſel is that thou ſhouldſt ſtay at home, and mortifie that Principle from whence Wars and Fightings come, ſo ſhalt thou encreaſe the Peace of thine own Conſcience, and the quiet of the World, and not need a Fifth King<g ref="char:EOLhyphen"/>dom to make thee happy.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35404:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
